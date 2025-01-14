@@ -1,0 +1,35 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+body{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+section{
+  border: 2px solid black;
+  padding: 5% 10% 5% 5%;
+  display: inline-block;
+  font-style: sans-serif;
+}
+div{
+  margin: 25px 0px;
+}
+div h2{
+  margin: 10px 0px;
+  border-top: 2px solid black;
+  padding-top: 25px;
+}
+div h4 {
+  color: #27b864;
+  margin-bottom: 10px;
+}
+div #special{
+  color: #237ce8;
+  margin: 5px 0px;
+}
+ul li{
+  list-style: none;
+}
